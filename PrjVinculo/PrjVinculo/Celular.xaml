@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrjVinculo.Celular"
+             Title="Celular">
+    <VerticalStackLayout>
+        
+        <Label 
+Text="Descrição"
+VerticalOptions="Start" 
+HorizontalOptions="Start" />
+        <Label 
+Text="Portão para garagem"
+VerticalOptions="Start" 
+HorizontalOptions="Start" />
+        <Label 
+Text="Celular Samsung Galaxy S25"
+FontSize="Large"
+VerticalOptions="Start" 
+HorizontalOptions="End" />
+        <Label 
+Text="Preço"
+VerticalOptions="Start" 
+HorizontalOptions="Start" />
+        <Label 
+Text="R$3870,50"
+VerticalOptions="Start" 
+HorizontalOptions="Start" />
+        <Label 
+Text="Categoria"
+VerticalOptions="Start" 
+HorizontalOptions="Start" />
+        <Label 
+Text="Dispositivel movel"
+VerticalOptions="Start" 
+HorizontalOptions="Start" />
+    </VerticalStackLayout>
+</ContentPage>
